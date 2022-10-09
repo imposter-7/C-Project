@@ -1,0 +1,33 @@
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\project.exe.config
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\project.exe
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\project.pdb
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.Form1.resources
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.exe
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.pdb
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\System.Data.SQLite.dll
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\System.Data.SQLite.xml
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\bin\Debug\project.exe.config
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\obj\Debug\project.exe
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\obj\Debug\project.pdb
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\bin\Debug\project.exe
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\bin\Debug\project.pdb
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\bin\Debug\System.Data.SQLite.dll
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\bin\Debug\System.Data.SQLite.xml
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\obj\Debug\project.Form1.resources
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\halaf\Desktop\Summer 2020\c#\C# project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\PSUT\Summer 2020\c#\C# project\project\project\bin\Debug\project.exe.config
+D:\PSUT\Summer 2020\c#\C# project\project\project\obj\Debug\project.exe
+D:\PSUT\Summer 2020\c#\C# project\project\project\obj\Debug\project.pdb
+D:\PSUT\Summer 2020\c#\C# project\project\project\bin\Debug\project.exe
+D:\PSUT\Summer 2020\c#\C# project\project\project\bin\Debug\project.pdb
+D:\PSUT\Summer 2020\c#\C# project\project\project\bin\Debug\System.Data.SQLite.dll
+D:\PSUT\Summer 2020\c#\C# project\project\project\bin\Debug\System.Data.SQLite.xml
+D:\PSUT\Summer 2020\c#\C# project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\PSUT\Summer 2020\c#\C# project\project\project\obj\Debug\project.Form1.resources
+D:\PSUT\Summer 2020\c#\C# project\project\project\obj\Debug\project.Properties.Resources.resources
+D:\PSUT\Summer 2020\c#\C# project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
